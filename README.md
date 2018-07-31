@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## New Media Blockchain 
+A Distributed Ledger Technology Company  
 
 You can use the [editor on GitHub](https://github.com/tharrisoniii/newmedia-blockchain/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
